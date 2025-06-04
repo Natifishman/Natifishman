@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science student from Israel  
+- 🎓 Computer Science student
 - 🔐 Interested in **cybersecurity**, **end-to-end encryption**, and **clean backend architecture**  
 - 🔧 Skilled in `Java`, `C`, `Python`, `C++`, and familiar with secure systems design  
 - 🤖 Love tackling complex problems and building tools that scale  
