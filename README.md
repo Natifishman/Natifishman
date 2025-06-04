@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Natanel Fishman 👋</h1>
 
 <p align="center">
-  💻 Computer Science student | 💡 Passionate about system programming & secure backend development
+  💻 3rd year Computer Science student | 💡 Passionate about system programming & secure backend development
 </p>
 
 ---
@@ -57,9 +57,9 @@
 
 ## 📫 Let's Connect
 
-- 📧 Email: *your.email@example.com*
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME)
-- 🌐 [Portfolio Site](https://yourdomain.com) _(if applicable)_
+- 📧 Email: *fishman56256@gmail.com*
+- 💼 [LinkedIn](https://www.linkedin.com/in/natanelf/)
+- 🌐 [Portfolio Site](https://yourdomain.com) _(building)_
 
 ---
 
