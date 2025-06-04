@@ -46,7 +46,7 @@
 
 - 📧 Email: *fishman56256@gmail.com*
 - 💼 [LinkedIn](https://www.linkedin.com/in/natanelf/)
-- 🌐 [Portfolio Site](https://yourdomain.com) _(building)_
+- 🌐 [Portfolio Site](https://github.com/Natifishman/Natifishman) _(building)_
 
 ---
 
