@@ -8,10 +8,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 3rd year CS student passionate about low-level & secure systems  
+- 🎓 3rd year CS student
 - 💡 I build scalable backend apps, messaging platforms & system tools  
 - 💬 Languages: `Java`, `C`, `C++`, `Python`, `Assembly`  
-- 🔍 Focus areas: cybersecurity · E2E encryption · clean architecture
 
 ---
 
