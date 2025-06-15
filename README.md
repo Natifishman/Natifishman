@@ -14,16 +14,6 @@
 
 ---
 
-## 🚀 Projects
-
-- 🔒 [SecureChat-E2EE](https://github.com/Natifishman/SecureChat-E2EE): Encrypted messaging with key exchange & socket comms  
-- ⚙️ [Two-Pass Assembler](https://github.com/Natifishman/c-two-pass-assembler): Custom C assembler for binary translation  
-- 🎉 [PartyMaker](https://github.com/Natifishman/PartyMaker): Java event planner with file I/O & logic handling  
-- 💬 [MessageU](Private): Secure C++ messaging client/server with custom protocol  
-- 🧠 [Advanced Java](https://github.com/Natifishman/Advanced-Java-Uni): Uni-level multithreading, OOP & DS practice
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
