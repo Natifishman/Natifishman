@@ -6,14 +6,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 3rd year CS student
-- 💡 I build scalable backend apps, messaging platforms & system tools  
-- 💬 Languages: `Java`, `C`, `C++`, `Python`, `Assembly`  
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
