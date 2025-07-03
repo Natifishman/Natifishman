@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Natanel Fishman 👋</h1>
+<h1 align="center">Natanel Fishman | Connect · Create · Collaborate</h1>
 
 <p align="center">
-  💻 Speak fluent Java, Python, and C 😉 
+  🔗 Driven by curiosity, powered by code
 </p>
 
 ---
