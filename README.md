@@ -14,5 +14,6 @@
 </p>
 
 ---
-![Project Views](https://komarev.com/ghpvc/?username=Natifishman&repo=PartyMaker&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Natifishman&color=blue&style=flat-square)
+
 <p align="center">⭐️ Check out my work & drop a star if you like it!</p>
