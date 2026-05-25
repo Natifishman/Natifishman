@@ -5,7 +5,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Natifishman&style=for-the-badge&color=0e75b6)](https://github.com/Natifishman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Natanel_Fishman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natanelf/)
 
-<img src="https://skillicons.dev/icons?i=java,spring,androidstudio,firebase,cpp,c,python,react,nodejs,git,github,linux,mysql&perline=7" />
+<img src="https://skillicons.dev/icons?i=java,spring,androidstudio,firebase,c,cpp,ts,react,python,nodejs,git,github,linux,mysql&perline=7" />
 
 </div>
 
