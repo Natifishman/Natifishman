@@ -15,6 +15,10 @@
       src="https://img.shields.io/badge/Let's_connect-LinkedIn-388BFD?style=flat-square&labelColor=161B22"
       alt="Connect with Natanel on LinkedIn"
     />
+      <img
+    src="https://komarev.com/ghpvc/?username=Natifishman&style=flat-square&color=388BFD&label=Profile+views"
+    alt="Profile views"
+  />
   </a>
 
   <br /><br />
@@ -42,11 +46,6 @@
   />
 
   <br /><br />
-
-  <img
-    src="https://komarev.com/ghpvc/?username=Natifishman&style=flat-square&color=388BFD&label=Profile+views"
-    alt="Profile views"
-  />
 
   <img
     width="100%"
