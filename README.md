@@ -7,7 +7,7 @@
   />
 
   <p>
-    Building thoughtful products.
+    Building thoughtful products
   </p>
 
   <a href="https://www.linkedin.com/in/natanelf/">
